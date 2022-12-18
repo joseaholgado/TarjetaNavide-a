@@ -60,6 +60,9 @@ p {
     font-size:calc(1.2em + 1vw + 1vh);
     font-weight:bold;
     z-index:2;
+    animation-duration: 3s;
+    animation-name: slidein;
+    
 }
 
 p:nth-child(3) {
